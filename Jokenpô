@@ -1,0 +1,23 @@
+#Jogo Jokenpô
+let Pedra = número = 1
+let Papel = número = 2
+let Tesoura = número = 3
+
+let jogador 1 = número
+let jogador 2 = número
+
+Jogador 1 (int(input('Qual é a sua jogada? \n Digite um número')))
+número = float (input)
+print (número)
+
+Jogador 2 (int(input('Qual é a sua jogada? \n Digite um número')))
+
+if(jogador 1 == número = 2 and jogador 2 == número 1):
+    print ('Jogador 1: Você venceu')
+elseif(jogador 1 == número = 1 and jogador 2 == número = 3):
+    print ('Jogador 1: Você venceu')
+elseif(jogador 1 == número = 3 and jogador 2 == número 2):
+    print('Jogador 1: Você venceu')
+else(jogador 1 == número jogador 2)
+    print ('Empate')
+
