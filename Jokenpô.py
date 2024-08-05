@@ -11,7 +11,7 @@ número = float (input)
 print (número)
 
 Jogador2 (int(input('Qual é a sua jogada? \n Digite um número')))
-número = flat (input)
+número = float (input)
 print (número)
 
 if(jogador1 == número = 2 and jogador2 == número 1; or jogador1 == número = 1 and jogador2 == número = 3; or jogador1 == número = 3 and jogador2 == número 2):
