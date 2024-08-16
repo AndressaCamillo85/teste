@@ -3,7 +3,7 @@
 
 cadastro = []
 
-for i in range(0,7):
+for i in range(0,10):
     #intervalo entre 0 e 10 posicões
     aux = []
     nome = input("Digitará seu nome: ")
